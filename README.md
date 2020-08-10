@@ -7,19 +7,23 @@ I'm currently working on a cross-platform project which will support Platforms A
 
 # Description
 
-Fixing bugs and adding new features is a part of developing software applications. From my experience, sending application updates to users is also a critical part of developing applications, especially when the user has no advanced knowledge of computers. In the Internet era today, the software developer must make application deployment and updating easier and often makes automatic application updates to do this.I already searched through the internet on this topic, but not much seems suited to my needs. So, I tried to create one myself. This sample application is developed in C# as a library with the project name “AutoUpdater”. The DLL “AutoUpdater” can be used in a C# Windows application(WinForm and WPF).
+Fixing bugs and adding new features is a part of developing software applications. From my experience, sending application updates to users is also a critical part of developing applications, especially when the user has no advanced knowledge of computers. 
+
+In the Internet era today, the software developer must make application deployment and updating easier and often makes automatic application updates to do this.I already searched through the internet on this topic, but not much seems suited to my needs. So, I tried to create one myself. 
+
+This sample application is developed in C# as a library with the project name “AutoUpdater”. The DLL “AutoUpdater” can be used in a C# Windows application (WinForm, WPF, UWP and Xamarin).
 
 # About the features
 
 ### There are certain features about the AutoUpdater:
 
-1,Easy to implement and use.  
-2,Application automatic re-run after checking update.  
-3,Update process transparent to the user .  
-4,To avoid blocking the main thread using multi-threaded download.  
-5,Ability to upgrade the system and also the auto update program.  
-6,A code that doesn't need change when used by different systems and could be compiled in a library.  
-7,Easy for user to download the update files.
+1. Easy to implement and use.  
+2. Application automatic re-run after checking update.  
+3. Update process transparent to the user .  
+4. To avoid blocking the main thread using multi-threaded download.  
+5. Ability to upgrade the system and also the auto update program.  
+6. A code that doesn't need change when used by different systems and could be compiled in a library.  
+7. Easy for user to download the update files.
 
 # The following UI
 
