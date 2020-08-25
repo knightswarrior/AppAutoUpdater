@@ -29,11 +29,11 @@ This sample application is developed in C# as a library with the project name â€
 
 There are two pages and very pretty simple,just as follows:
 
-[![2010-10-13 18-05-02](https://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/2010-10-13%2018-05-02_thumb.png "2010-10-13 18-05-02")](http://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/2010-10-13%2018-05-02_2.png)
+![autoupdatersolution_4](https://github.com/knightswarrior/AppAutoUpdater/blob/master/autoupdatersolution_4.png)
 
 Figure 1
 
-[![2010-10-13 18-05-41](https://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/2010-10-13%2018-05-41_thumb.png "2010-10-13 18-05-41")](http://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/2010-10-13%2018-05-41_2.png)
+![autoupdatersolution_5](https://github.com/knightswarrior/AppAutoUpdater/blob/master/autoupdatersolution_5.png)
 
 Figure 2
 
@@ -95,7 +95,7 @@ Thatâ€™s all and just enjoy it!
 
 The application is pretty simple,just contains two pages and some helper classes.
 
-[![autoupdatersolution](https://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/autoupdatersolution_thumb.png "autoupdatersolution")](http://images.cnblogs.com/cnblogs_com/KnightsWarrior/WindowsLiveWriter/ShareaAutoUpdatertool_DFC0/autoupdatersolution_2.png)
+![autoupdatersolution_1](https://github.com/knightswarrior/AppAutoUpdater/blob/master/autoupdatersolution_1.png)
 
 Figure 3
 
