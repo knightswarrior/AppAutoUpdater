@@ -3,6 +3,9 @@
 
 AutoUpdater is a library which allows developers to easily add auto update feature to their desktop (Windows, macOS and Linux) application. 
 
+This project has been migrated from CodePlex and isn't actively maintained. It's provided for archival purposes only.
+You can find the original page [https://archive.codeplex.com/?p=autoupdater](https://archive.codeplex.com/?p=autoupdater)  
+
 I'm currently working on a cross-platform project which will support Platforms Android, iOS, Windows, MacOs. Linux, for Android and iOS, there have built-in auto update feature to use, but for Windows, MacOs, Linux, I found my previous open source project which I built in 10 years ago and got around 1 million downloads in Codeplex for last ten years  still works, as Codeplex has been stopped, I migrate it from Codeplex to Github and will continue to maintain this repository, issues here.
 
 # Description
